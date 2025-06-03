@@ -1,0 +1,10 @@
+let num1 =10;
+let num2 = 5;
+let suma = num1 + num2;
+let resta = num1 - num2;
+let multiplicacion = num1 * num2;
+let division = num1 / num2;
+document.writeln("La Suma de los numero: "+ num1 + " Y "+ num2 + "es: " + suma + "<br>");  
+document.writeln("La Resta de los numero: " + num1 + " Y "+ num2 + "es: " + resta + "<br>");
+document.writeln("La Multiplicacion de los numero: " + num1 + " Y "+ num2 + "es: " + multiplicacion + "<br>");
+document.writeln("La Division de los numero: " + num1 + " Y "+ num2 + "es: " + division + "<br>");    
